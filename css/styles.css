@@ -65,11 +65,10 @@ p {
 }
 
 /* Title */
-#title {
-    text-align: left;
-}
+
 #title .container-fluid {
     padding: 3% 15% 7%;
+    text-align: left;
 }
 
 /* Features Section */
@@ -133,19 +132,13 @@ p {
     line-height: 1.5;
 }
 
-/* Call to Actions Section */
-#cta {
-    background-color:#FF4C68;
-    color: #fff;
-    padding: 100px;
-}
 
 /* Footer Section */
 #footer {
     background-color: #fff;
 }
 .social-icon {
-    margin: 2% 2% 2% 0; 
+    margin: 2% 1% 2% 1%;; 
 }
 
 /* Responsive Design Section  */
